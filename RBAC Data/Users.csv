@@ -1,0 +1,20 @@
+First Name,Last Name,Job Title,sAMAccountName,userPrincipalName,title,department,company,extensionAttribute1,extensionAttribute2,extensionAttribute3
+Jane,Smith,Branch Manager,jsmith,jsmith@silvergate.com,Branch Manager,Executive Leadership,Silvergate Community Bank,ROLE_BRANCHMGR,EXEC,EXEC_MGMT
+Alice,Johnson,VP of Finance,ajohnson,ajohnson@silvergate.com,VP of Finance,Finance,Silvergate Community Bank,ROLE_VPFIN,FIN,FIN_EXEC
+Bob,Martin,Director of Accounting,bmartin,bmartin@silvergate.com,Director of Accounting,Finance,Silvergate Community Bank,ROLE_DIRACCT,FIN,FIN_ACCT
+Chloe,Adams,Accountant,cadams,cadams@silvergate.com,Accountant,Finance,Silvergate Community Bank,ROLE_ACCT,FIN,FIN_ACCT
+David,Lee,Director of Treasury Mgmt,dlee,dlee@silvergate.com,Director of Treasury Mgmt,Finance,Silvergate Community Bank,ROLE_DIRTREAS,FIN,FIN_TREAS
+Eva,Scott,Treasury Specialist,escott,escott@silvergate.com,Treasury Specialist,Finance,Silvergate Community Bank,ROLE_TREASSPEC,FIN,FIN_TREAS
+Frank,Moore,VP of Operations,fmoore,fmoore@silvergate.com,VP of Operations,Operations,Silvergate Community Bank,ROLE_VPOPS,OPS,OPS_EXEC
+Grace,Kim,Director of Teller Services,gkim,gkim@silvergate.com,Director of Teller Services,Operations,Silvergate Community Bank,ROLE_DIRTELLER,OPS,OPS_TELLER
+Harry,White,Teller,hwhite,hwhite@silvergate.com,Teller,Operations,Silvergate Community Bank,ROLE_TELLER,OPS,OPS_TELLER
+Isla,Young,Director of Commercial Lending,iyoung,iyoung@silvergate.com,Director of Commercial Lending,Operations,Silvergate Community Bank,ROLE_DIRLENDING,OPS,OPS_LENDING
+Jack,Carter,Loan Officer,jcarter,jcarter@silvergate.com,Loan Officer,Operations,Silvergate Community Bank,ROLE_LOANOFFICER,OPS,OPS_LENDING
+Kara,Bell,Mortgage Specialist,kbell,kbell@silvergate.com,Mortgage Specialist,Operations,Silvergate Community Bank,ROLE_MORTGAGESPEC,OPS,OPS_LENDING
+Liam,Davis,Director of Retail Banking,ldavis,ldavis@silvergate.com,Director of Retail Banking,Operations,Silvergate Community Bank,ROLE_DIRRETAIL,OPS,OPS_RETAIL
+Mia,Evans,Personal Banker,mevans,mevans@silvergate.com,Personal Banker,Operations,Silvergate Community Bank,ROLE_PBANKER,OPS,OPS_RETAIL
+Nathan,Ford,VP of Information Technology,nford,nford@silvergate.com,VP of Information Technology,Information Technology,Silvergate Community Bank,ROLE_VPIT,IT,IT_EXEC
+Olivia,Hall,Director of IT,ohall,ohall@silvergate.com,Director of IT,Information Technology,Silvergate Community Bank,ROLE_DIRIT,IT,IT_SUPPORT
+Paul,Green,IT Support Technician,pgreen,pgreen@silvergate.com,IT Support Technician,Information Technology,Silvergate Community Bank,ROLE_ITSUPPORT,IT,IT_SUPPORT
+Quinn,Baker,Director of Cybersecurity,qbaker,qbaker@silvergate.com,Director of Cybersecurity,Information Technology,Silvergate Community Bank,ROLE_DIRSEC,IT,IT_SECURITY
+Ruby,Knight,Security Analyst,rknight,rknight@silvergate.com,Security Analyst,Information Technology,Silvergate Community Bank,ROLE_SECANALYST,IT,IT_SECURITY

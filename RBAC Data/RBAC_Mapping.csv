@@ -1,0 +1,20 @@
+Job Title,Dept Code,Department Name,Dept-Team Code,Team Name,Role Code
+Branch Manager,EXEC,Executive Leadership,EXEC_MGMT,Executive Management,ROLE_BRANCHMGR
+VP of Finance,FIN,Finance,FIN_EXEC,Finance Executive,ROLE_VPFIN
+Director of Accounting,FIN,Finance,FIN_ACCT,Accounting,ROLE_DIRACCT
+Accountant,FIN,Finance,FIN_ACCT,Accounting,ROLE_ACCT
+Director of Treasury Mgmt,FIN,Finance,FIN_TREAS,Treasury Management,ROLE_DIRTREAS
+Treasury Specialist,FIN,Finance,FIN_TREAS,Treasury Management,ROLE_TREASSPEC
+VP of Operations,OPS,Operations,OPS_EXEC,Operations Executive,ROLE_VPOPS
+Director of Teller Services,OPS,Operations,OPS_TELLER,Teller Services,ROLE_DIRTELLER
+Teller,OPS,Operations,OPS_TELLER,Teller Services,ROLE_TELLER
+Director of Commercial Lending,OPS,Operations,OPS_LENDING,Commercial Lending,ROLE_DIRLENDING
+Mortgage Specialist,OPS,Operations,OPS_LENDING,Commercial Lending,ROLE_MORTGAGESPEC
+Loan Officer,OPS,Operations,OPS_LENDING,Commercial Lending,ROLE_LOANOFFICER
+Director of Retail Banking,OPS,Operations,OPS_RETAIL,Retail Banking,ROLE_DIRRETAIL
+Personal Banker,OPS,Operations,OPS_RETAIL,Retail Banking,ROLE_PBANKER
+VP of Information Technology,IT,Information Technology,IT_EXEC,IT Executive,ROLE_VPIT
+Director of IT,IT,Information Technology,IT_SUPPORT,IT Support,ROLE_DIRIT
+IT Support Technician,IT,Information Technology,IT_SUPPORT,IT Support,ROLE_ITSUPPORT
+Director of Cybersecurity,IT,Information Technology,IT_SECURITY,Cybersecurity,ROLE_DIRSEC
+Security Analyst,IT,Information Technology,IT_SECURITY,Cybersecurity,ROLE_SECANALYST
